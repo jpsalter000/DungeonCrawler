@@ -16,11 +16,15 @@ Each stage features a procedurally generated board of one of three type configur
  Player completes stage by moving to the tile with a green Exit label made available when
  all enemies have been defeated.
 
+![Stage 1](src/screenshots/stage1.png)
+
  Game is over when either:
  	Player successfully completes 3 consecutive stages (Win condition)
  or
  	Player's hitpoints value falls to 0 or lower (Lose condition)
 
+
+![Stage 3](src/screenshots/stage3.png)
 
 # Usage
 
